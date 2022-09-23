@@ -2,3 +2,6 @@ Capitulo 1: Indice a Git
 Capitulo 2: Introduccion a Git
 Capitulo 3: Gestión de ramas
 Capitulo 4: Repositorios remotos
+Capitulo 5: Conceptos avanzados
+Capitulo 5: Conceptos avanzados
+Capitulo 5: Conceptos avanzados
